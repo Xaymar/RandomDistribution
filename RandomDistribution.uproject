@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D64B3270-4716-24BC-EBC1-75989089EA9E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RandomDistribution",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor"
+	]
+}
