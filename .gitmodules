@@ -1,0 +1,3 @@
+[submodule "Plugins/Editor/Generation/RandomDistributionPlugin"]
+	path = Plugins/Editor/Generation/RandomDistributionPlugin
+	url = git@github.com:Xaymar/RandomDistributionPlugin.git
